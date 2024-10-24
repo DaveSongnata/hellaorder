@@ -37,8 +37,8 @@ Você irá precisar de:
 
 <div align="center">
   <div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap; justify-content: center;">
-    <img src="screenshots/SCREENSHOT-HELLAORDER.PNG" width="500"/> <br>
-    <img src="screenshots/SCREENSHOT-HELLAORDER-BASE.PNG" width="500"/>
+    <img src="screenshots/SCREENSHOT-HELLAORDER-BASE.png" width="500"/> <br>
+    <img src="screenshots/SCREENSHOT-HELLAORDER.png width="500"/>
   </div>
 </div>
 
